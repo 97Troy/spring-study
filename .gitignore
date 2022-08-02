@@ -1,0 +1,16 @@
+# Project exclude paths
+/spring_01_quickstart/target/
+/spring_02_base_config/target/
+/spring_03_bean_lifecycle/target/
+/spring_04_di_set/target/
+/spring_05_di_autoware/target/
+/spring_06_datasource/target/
+/spring_07_annotation_bean/target/
+/spring_08_spring_mybatis/target/
+/spring_09_spring_junit/target/
+/spring_10_aop_demo/target/
+/spring_11_aop_quickstart/target/
+/spring_12_aop_advice_type/target/
+/spring_13_case_interface_run_speed/target/
+/spring_14_aop_advice_data/target/
+/spring_15_case_handle_password/target/
